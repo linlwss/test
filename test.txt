@@ -1,7 +1,9 @@
-第一次填写内容
+第一次填写内容（Git add添加内容到暂存区）
 
-第二次填写内容
+第二次填写内容（git status查看状态）
 
-第三次填写内容
+第三次填写内容（git commit -m提交内容到提交区）
 
-第四次填写内容（在lin分支上）
+第四次填写内容（git reset --hard commit根据log日志切换版本）
+
+第五次填写内容（git log --pretty=oneline 简化日志）
