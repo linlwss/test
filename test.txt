@@ -7,3 +7,5 @@
 第四次填写内容（git reset --hard commit根据log日志切换版本）
 
 第五次填写内容（git log --pretty=oneline 简化日志）
+
+第六次填写内容（创建分支Git branch lin）
